@@ -1,4 +1,5 @@
 ### IntelliJ IDEA ###
+*.iml
 .idea/
 out/
 !**/src/main/**/out/
@@ -30,4 +31,3 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-poo-combate.iml
